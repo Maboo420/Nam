@@ -1,1 +1,3 @@
-console.log('Hello world loaded');
+window.addEventListener('DOMContentLoaded', () => {
+    console.log('Ake Camping page ready');
+});
